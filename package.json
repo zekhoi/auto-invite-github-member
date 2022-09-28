@@ -1,0 +1,10 @@
+{
+  "name": "auto-invite-github-member",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Khoironi Kurnia Syah",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2"
+  }
+}
